@@ -17,12 +17,28 @@ This repository documents my learning journey and showcases projects I create.
 
 To become a professional video editor capable of producing:
 
-- Product commercials
-- Corporate videos
-- Reels
-- Motion graphics
-- Testimonials
-- YouTube videos
+-  Social Media Reels
+
+🎬 Commercial Advertisements
+
+🏢 Corporate Videos
+
+🎤 Interviews & Testimonials
+
+📺 YouTube Videos
+
+🎓 Webinar Highlights
+
+🎉 Event Coverage
+
+✈️ Travel Cinematics
+
+🎨 Motion Graphics
+
+📈 Before & After Edits
+
+📖 Learning Journal
+
 
 ## Projects
 
